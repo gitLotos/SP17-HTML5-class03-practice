@@ -1,0 +1,35 @@
+.amendment-title
+  {
+    color: blue;
+    text-align: center;
+  }
+
+.amendment-title:hover
+  {
+    color: red;
+  }
+
+.amendment-title::first-letter
+  {
+    font-size: 40px
+  }
+
+.document-background
+  {
+    background-color: lightblue;
+  }
+
+.document-background p
+  {
+    width: 50%;
+  }
+
+.amendment-body
+  {
+    text-align: center;
+  }
+
+#bill-of-rights
+  {
+    font-style: italic;
+  }
